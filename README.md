@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://instagram.com/@leo.restoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leo.restoff" height="30" width="40" /></a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardorestoff&show_icons=true&locale=en" alt="leonardorestoff" /></p>
