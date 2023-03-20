@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá, eu sou a Leonardo Restoff! 👋
+# Olá, eu sou o Leonardo Restoff! 👋
 
 
 ## 🚀 Sobre mim
